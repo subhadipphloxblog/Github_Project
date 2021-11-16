@@ -4,7 +4,8 @@ import { FlatList, StyleSheet, Text, View, Button,} from 'react-native';
 const Registretion = () => {
   return (
     <View style={styles.container}>
-     <text>mohit</text>
+     <text>subhadip</text>
+{this is my first github file add}
     </View>
   );
 }
